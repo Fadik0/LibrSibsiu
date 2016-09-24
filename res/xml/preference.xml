@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference android:summary="@string/pref_domen_msg" android:title="@string/pref_domen_title" android:key="@string/pref_key_domen" android:defaultValue="@string/pref_domen_default"/>
+    <MultiSelectListPreference android:entryValues="@array/value_charecteristic" android:entries="@array/text_charecteristic" android:key="@string/pref_key_charecteristic" android:title="@string/pref_charecteristic_title" android:summary="@string/pref_charecteristic_msg" android:defaultValue="@array/value_charecteristic"/>
+    
+    <ListPreference android:entryValues="@array/value_sort" android:entries="@array/text_sort" android:defaultValue="dateBookAdded;descending" android:title="@string/pref_sort_title" android:key="@string/pref_key_sort" android:summary="@string/pref_sort_msg"/>
+    <SwitchPreference android:key="@string/pref_key_author" android:title="@string/pref_author_title" android:summaryOn="@string/pref_author_summary" android:summaryOff="@string/pref_author_summary" android:switchTextOff="@string/pref_author_off" android:switchTextOn="@string/pref_author_on"/>
+    
+
+</PreferenceScreen>

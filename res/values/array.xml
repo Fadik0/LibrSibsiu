@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="text_sort">
+		<item>Last created records</item>
+		<item>Relevance</item>
+		<item>Author</item>
+		<item>Title</item>
+		<item>Call Number Pub</item>
+		<item>Date of creating records</item>
+	</string-array>   
+	<string-array name="value_sort">
+		<item>dateBookAdded;descending</item>
+		<item>score;descending</item>
+		<item>sort_ss_author</item>
+		<item>sort_ss_title</item>
+		<item>sort_ss_cn</item>
+		<item>created;descending</item>
+	</string-array>    
+	<string-array name="text_charecteristic">
+		<item>Cipher</item>
+		<item>Publisher</item>
+		<item>Count pages</item>
+		<item>Authors</item>
+		<item>Items</item>
+		<item>Description</item>
+	</string-array>   
+	<string-array name="value_charecteristic">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+	</string-array>     
+</resources>

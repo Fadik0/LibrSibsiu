@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="text_sort">
+		<item>Последние созданные записи</item>
+		<item>Релевантность</item>
+		<item>Автор</item>
+		<item>Заглавие</item>
+		<item>Расстановочный шифр</item>
+		<item>Дата создания записи</item>
+	</string-array>   
+	<string-array name="value_sort">
+		<item>dateBookAdded;descending</item>
+		<item>score;descending</item>
+		<item>sort_ss_author</item>
+		<item>sort_ss_title</item>
+		<item>sort_ss_cn</item>
+		<item>created;descending</item>
+	</string-array>    
+	<string-array name="text_charecteristic">
+		<item>Расстановочный шифр</item>
+		<item>Издатель</item>
+		<item>Кол-во страниц</item>
+		<item>Авторы</item>
+		<item>Предметы</item>
+		<item>Описание</item>		
+	</string-array>   
+	<string-array name="value_charecteristic">
+	    <item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+	</string-array>     
+</resources>

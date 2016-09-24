@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"Library SibSIU"</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hello_world">Привет мир!</string>
+    <string name="title_activity_second">Информация о книге</string>
+    <string name="pdPlease_wait">Пожалуйста, подождите..</string>
+    <string name="btLoad_more">Показать еще</string>
+	<string name="btSearch">Поиск</string>
+	<string name="plaseholder">Отсутствует</string>
+	<string name="author">Автор: </string>
+	<string name="txtHint">Введите ключ для поиска.</string>	
+	<string name="searchHint">Что искать</string>	
+	<string name="pref_domen_title">Адрес</string>
+	<string name="pref_domen_msg">Выбор адреса библиотеки</string>
+	<string name="pref_key_domen">pref_key_domen</string>
+	<string name="pref_domen_default">http://libr.sibsiu.ru/search/query?theme=mobile</string>
+	<string name="pref_sort_title">Сортировка</string>
+	<string name="pref_sort_msg">Способ сортировки результата поиска</string>
+	<string name="pref_key_sort">pref_key_msg</string>
+	<string name="pref_charecteristic_title">Характеристики книги</string>
+	<string name="pref_charecteristic_msg">Выбор отображаемых характеристик книг</string>
+	<string name="pref_key_charecteristic">pref_key_charecteristic</string>
+	<string name="pref_author_on">Да</string>
+	<string name="pref_author_off">Нет</string>
+	<string name="pref_author_title">Автор</string>
+	<string name="pref_author_summary">Отображать автора в списке результатов.</string>
+	<string name="pref_key_author">pref_key_author</string>
+	<string name="char_publisher">Издатель</string>
+	<string name="char_count_pages">Количество страниц</string>
+	<string name="char_authors">Авторы</string>
+	<string name="char_description">Описание</string>
+	<string name="char_title">Название</string>
+	<string name="char_cipher">Расстановочный шифр</string>
+	<string name="char_copies">Экзампляры</string>
+	<string name="char_items">Предметы</string>
+	<string name="help_exit">Нажмите еще раз чтобы выйти.</string>
+	<string name="help_start">Быстрый поиск книг в библиотеки.</string>
+	<string name="error_internet">Ошибка: интернет отключен или результатов нет.</string>
+	
+	<string name="ver">Версия 0.1r</string>
+	
+</resources>
